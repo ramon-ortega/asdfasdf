@@ -1,0 +1,10 @@
+{
+    "id": "123456",
+    "nombre": "Carlos",
+    "email": "carlos@gmail.com",
+    "age": 25,
+    "autos": {
+        "ferrari" : true,
+        "toyota"  : true
+    }
+}
